@@ -407,7 +407,7 @@ a:focus {
 }
 
 .feature_section .feature_container {
-     width: 200%;
+     width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
